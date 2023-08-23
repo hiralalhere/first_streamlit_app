@@ -1,6 +1,6 @@
 import streamlit
 
 streamlit.title('My Parents New Healthy Dinner')
-streamlit.title('Breakfast Menu')
+front_size(5)('Breakfast Menu')
 
 'Muri n Chanachur'
