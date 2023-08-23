@@ -1,6 +1,7 @@
 import streamlit
 
 streamlit.title('My Parents New Healthy Dinner')
-('Breakfast Menu')
+streamlit.header('Breakfast Menu')
 
-'Muri n Chanachur'
+streamlit.text('Muri n Chanachur')
+streamlit.text('Plus Tea')
